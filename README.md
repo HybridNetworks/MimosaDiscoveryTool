@@ -1,6 +1,8 @@
 Mimosa Discovery Tool
 =============================
 
+![Mimosa Discovery Tool](https://github.com/HybridNetworks/MimosaDiscoveryTool/blob/master/screenshot1.png?raw=true)
+
 # Bug reports
 
 Please feel free to submit bug reports on the github issue tracker at https://github.com/HybridNetworks/MimosaDiscoveryTool/issues
