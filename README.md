@@ -7,7 +7,7 @@ Mimosa Discovery Tool
 =============================
 
   <a href="https://github.com/HybridNetworks/MimosaDiscoveryTool">
-    <img src="https://github.com/HybridNetworks/MimosaDiscoveryTool/blob/master/screenshot.png" alt="Mimosa Discovery Tool">
+    <img src="https://raw.githubusercontent.com/HybridNetworks/MimosaDiscoveryTool/master/screenshot.png" alt="Mimosa Discovery Tool">
   </a>
  
 ### Prerequisites
